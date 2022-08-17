@@ -1,6 +1,6 @@
 ___TERMS_OF_SERVICE___
 
-By creating or modifying this file you agree to Google Tag Manager’s Community
+By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
 https://developers.google.com/tag-manager/gallery-tos (or such other URL as
 Google may provide), as modified from time to time.
@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Voluum Click ID Variable",
+  "displayName": "Voluum Click ID variable",
   "categories": ["ANALYTICS","AFFILIATE_MARKETING","CONVERSIONS"],
   "description": "Voluum Click ID Variable template is a simple way of obtaining Click ID from your Voluum Tracking Script or Offer URL (Query URL).",
   "containerContexts": [
@@ -182,6 +182,5 @@ scenarios: []
 
 ___NOTES___
 
-Created on 17/08/2022, 14:11:26
-
+Created on 17/08/2022, 14:38:21
 
