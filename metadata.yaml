@@ -1,0 +1,6 @@
+homepage: "https://www.example.com"
+documentation: "https://www.example.com/documentation"
+versions:
+  # Latest version
+  - sha: 961afd4221d0b4005b8db0526b9aaead41d93a2f
+    changeNotes: Initial version
