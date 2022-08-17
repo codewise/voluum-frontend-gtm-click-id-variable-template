@@ -5,7 +5,8 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Voluum Click ID variable",
+  "displayName": "Voluum Click ID Variable",
+  "categories": ["ANALYTICS","AFFILIATE_MARKETING","CONVERSIONS"],
   "description": "Voluum Click ID Variable template is a simple way of obtaining Click ID from your Voluum Tracking Script or Offer URL (Query URL).",
   "containerContexts": [
     "WEB"
