@@ -2,5 +2,5 @@ homepage: "https://voluum.com"
 documentation: "https://doc.voluum.com"
 versions:
   # Latest version
-  - sha: 961afd4221d0b4005b8db0526b9aaead41d93a2f
+  - sha: e201ea0e865c238784b575a90dd223d5b16d927c
     changeNotes: Initial version
